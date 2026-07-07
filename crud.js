@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     let cars = [
-        { id: 1, brand: "Audi", image: 'audi.png', price: 2000, qty: 3 },
-        { id: 2, brand: "Polo", image: 'audi.png', price: 3000, qty: 4 },
-        { id: 3, brand: "Thar", image: 'audi.png', price: 4000, qty: 2 },
-        { id: 4, brand: "Bwm", image: 'audi.png', price: 5000, qty: 1 },
-        { id: 5, brand: "Kia", image: 'audi.png', price: 6000, qty: 6 },
+        { id: 1, brand: "Audi", image: "audi.png", price: 2000, qty: 3 },
+        { id: 2, brand: "Polo", image: "audi.png", price: 3000, qty: 4 },
+        { id: 3, brand: "Thar", image: "audi.png", price: 4000, qty: 2 },
+        { id: 4, brand: "Bwm", image: "audi.png", price: 5000, qty: 1 },
+        { id: 5, brand: "Kia", image: "audi.png", price: 6000, qty: 6 },
     ]
 
 
